@@ -21,5 +21,6 @@ module.exports = {
     'func-names': 'off',
     'space-before-function-paren': 'off',
     "linebreak-style": 0,
+    "no-param-reassign": ["error", { "props": false }],
   },
 };
